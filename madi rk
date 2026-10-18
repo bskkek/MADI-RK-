@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "Initial commit: MADI Anisse RK Diesel Back-Pressure Lab"
+git branch -M main
+git remote add origin https://github.com/YOUR_USERNAME/madi-anisse-rk.git
+git push -u origin main
